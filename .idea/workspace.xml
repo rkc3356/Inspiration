@@ -20,16 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1b87fb3-e91d-4981-ad18-4f9e7c44f130" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/media/default.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/profile-pics/dobby.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/signals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/templates/users/profile.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Finder/templates/Finder/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/users/templates/users/logout.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Finder/templates/Inspiration/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/Finder/templates/Inspiration/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Inspiration/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Inspiration/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InspirationFinder/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/InspirationFinder/asgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/InspirationFinder/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/InspirationFinder/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/InspirationFinder/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inspiration/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Inspiration/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,8 +45,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -84,6 +86,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/media" />
       <recent name="$PROJECT_DIR$/users/templates" />
       <recent name="$PROJECT_DIR$/blank" />
     </key>
@@ -137,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595210818535</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Created log out template.">
+      <created>1595212170581</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1595212170581</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,17 +172,18 @@
     <MESSAGE value="Essentially, the start" />
     <MESSAGE value="Users app" />
     <MESSAGE value="Created log in template." />
-    <option name="LAST_COMMIT_MESSAGE" value="Created log in template." />
+    <MESSAGE value="Created log out template." />
+    <option name="LAST_COMMIT_MESSAGE" value="Created log out template." />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594878737697">
       <screen x="0" y="23" width="1440" height="810" />
     </state>
     <state x="184" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.810@0.23.1440.810" timestamp="1594878737697" />
-    <state x="285" y="23" width="863" height="810" key="CommitChangelistDialog2" timestamp="1595210818438">
+    <state x="285" y="23" width="863" height="810" key="CommitChangelistDialog2" timestamp="1595212170483">
       <screen x="0" y="23" width="1440" height="810" />
     </state>
-    <state x="285" y="23" width="863" height="810" key="CommitChangelistDialog2/0.23.1440.810/-342.-1057.1920.1057@0.23.1440.810" timestamp="1595210818438" />
+    <state x="285" y="23" width="863" height="810" key="CommitChangelistDialog2/0.23.1440.810/-342.-1057.1920.1057@0.23.1440.810" timestamp="1595212170483" />
     <state x="285" y="23" key="CommitChangelistDialog2/0.23.1440.810@0.23.1440.810" timestamp="1595209043926" />
     <state x="100" y="123" width="1240" height="610" key="DiffContextDialog" timestamp="1595209971702">
       <screen x="0" y="23" width="1440" height="810" />
