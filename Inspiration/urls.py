@@ -19,6 +19,7 @@ from users import views as user_views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', include('Finder.urls')),
     path('register/', user_views.register, name='register'),
+    path('', include('Finder.urls')),
+
 ]
